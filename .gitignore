@@ -1,0 +1,6 @@
+.classpath
+.gitattributes
+.project
+.settings/org.eclipse.jdt.core.prefs
+org.eclipse.core.resources.prefs
+*.class
